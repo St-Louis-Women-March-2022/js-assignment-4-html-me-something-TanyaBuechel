@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+/* Elements */
+body {
+    background-color: white;
+    font-size: 14pt;
+    font-weight: 400;
+    color: #333;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+header {
+    background-color: white;
+    height: auto;
+    text-align: center;
+}
+/* Ids */
+
+/* Classes */
